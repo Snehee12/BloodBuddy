@@ -1,0 +1,10 @@
+Snehee Gour,21,female,AB+,Gwalior,7987242095
+Ansh Chummeshwari,20,male,B+,Shajapur,6266779910
+Vini Patel,20,male,A+,Khandwa,8736456279
+Bhavesh Joshi,20,male,O+,Indore,8273653637
+Shreya Debnath,19,female,O-,Gandhinagar,8912647126
+Tushar Dewde,21,male,B+,Khandwa,7626826289
+Anjali Verma,21,female,O-,Ratlam,6552889160
+Somya Singh,20,female,B-,Jabalpur,6266779910
+Ansh Chummeshwari,20,male,A-,Shajapur,6266779910
+bhavesh joshi,21,male,AB+,Indore,7987242095
