@@ -64,5 +64,6 @@ BloodBuddy addresses the challenges faced by traditional blood bank management s
 ### Blood Requests
 ![BloodRequests](Screenshots/bloodrequest.png)
 
-### Logout Page
-![Logout](Screenshots/logout.png)
+## Contributing and Feedback
+
+Contributions and any kind of feedbacks are welcome! Please open an issue or submit a pull request for any changes.
